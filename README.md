@@ -10,7 +10,8 @@ class AboutMe:
         self.birthday = 1028541600
         self.gender = 'male'
         self.about = 'full stack developer/sysadmin that enjoys breaking and fixing things.'
-        self.location = 'Ireland'
+        self.location = 'Canary Islands'
+        self.origin = 'Ireland'
         self.hobbies = ['Programming', 'Sysadmin', 'IRC', 'LEGO']
         self.languages = ['Python', 'JavaScript', 'Go', 'Tcl']
         self.os = ['Ubuntu']
